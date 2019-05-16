@@ -1,0 +1,13 @@
+#Functions
+export("NDVIAnomaly")
+export("DifferenceAnnualCycle")
+export("FirstDifference")
+export("SD_NDVIAnomaly")
+export("monthlyMODIS")
+export("SD_NDVI_MAnomaly")
+export("Resilience")
+
+#Packages
+import("raster")
+importFrom("stats", "lm", "sd")
+import("methods")

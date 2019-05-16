@@ -1,0 +1,10 @@
+Package: Forward
+Type: Package
+Title: Forward
+Version: 1.0
+Date: 2018-07-24
+Author: Klaus Wolfgang Wiese Acosta
+Maintainer: Klaus Wolfgang Wiese Acosta <klaus.wiese@unah.edu.hn>
+Description: Package for the study of vegetation resilience and resistance to temperature and drought
+License: GPL
+Depends: R (>= 2.14.0), methods, raster, stats
