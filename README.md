@@ -5,5 +5,6 @@ In the framework of the FORDWARD project we develop an R-package in order to wor
 ## Package Installation
 remotes::install_github("klauswiese/Forward")
 
+
 ## NDVI time series
 
