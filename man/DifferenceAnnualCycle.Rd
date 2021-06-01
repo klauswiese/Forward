@@ -1,6 +1,6 @@
 \name{DifferenceAnnualCycle}
 \alias{DifferenceAnnualCycle}
-%- Also NEED an '\alias' for EACH other topic documented here.
+
 \title{
 ACF Difference Annual Cycle
 }
