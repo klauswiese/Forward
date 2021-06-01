@@ -1,6 +1,6 @@
 \name{SD_NDVIAnomaly}
 \alias{SD_NDVIAnomaly}
-%- Also NEED an '\alias' for EACH other topic documented here.
+
 \title{
 Standardised NDVI Anomaly
 }
