@@ -1,6 +1,6 @@
 \name{FirstDifference}
 \alias{FirstDifference}
-%- Also NEED an '\alias' for EACH other topic documented here.
+
 \title{
 First Difference
 }
