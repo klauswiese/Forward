@@ -1,6 +1,6 @@
 \name{SD_NDVI_MAnomaly}
 \alias{SD_NDVI_MAnomaly}
-%- Also NEED an '\alias' for EACH other topic documented here.
+
 \title{
 Standardised NDVI Monthly Anomaly
 }
