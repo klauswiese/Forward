@@ -1,6 +1,6 @@
 \name{Resilience}
 \alias{Resilience}
-%- Also NEED an '\alias' for EACH other topic documented here.
+
 \title{
 Ecological Resilience and Resistence 
 }
