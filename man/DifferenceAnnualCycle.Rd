@@ -9,7 +9,7 @@ Calculate ACF Difference Annual Cycle, first lag minus the lag that represent th
 \usage{
 DifferenceAnnualCycle(ACF, ASL)
 }
-%- maybe also 'usage' for other objects documented here.
+
 \arguments{
   \item{ACF}{Time series ACF, a raster stack}
   \item{ASL}{Annual Season Length, a numeric value}
