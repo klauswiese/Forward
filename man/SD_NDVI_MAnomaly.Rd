@@ -9,7 +9,7 @@ Estimate Standardised NDVI Monthly Anomaly}
 \usage{
 SD_NDVI_MAnomaly(NDVI, YearLength, ini, fin)
 }
-%- maybe also 'usage' for other objects documented here.
+
 \arguments{
   \item{NDVI}{NDVI index raster time series}
   \item{YearLength}{The number of layer represent a complete year}
