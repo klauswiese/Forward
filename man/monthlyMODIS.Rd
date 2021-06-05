@@ -5,7 +5,7 @@
 monthly MODIS
 }
 \description{
-Calculates the monthly mean of measures made by NDVI 8 days MODIS product}
+Calculates the monthly mean of measures made by NDVI 8 days composite MODIS product}
 \usage{
 monthlyMODIS(MODISyear, year)
 }
@@ -15,7 +15,7 @@ monthlyMODIS(MODISyear, year)
   \item{year}{The year of interest, a numeric value}
 }
 
-\value{A 12 layers raster stack of an 8 days MODIS product}
+\value{A 12 layers raster stack of an 8 days composite MODIS product}
 \references{}
 \author{Klaus Wolfgang Wiese Acosta}
 
