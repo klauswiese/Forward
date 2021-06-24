@@ -17,7 +17,7 @@ DifferenceAnnualCycle(ACF, ASL)
 
 \value{A raster that represents the difference between the first lag ann the lag that represents the annual cycle, the closer the value to cero more stable time series}
 \references{}
-\author{Klaus Wolfgang Wiese Acosta}
+\author{Klaus W. Wiese Acosta}
 
 
 \examples{
