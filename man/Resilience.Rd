@@ -19,7 +19,7 @@ Resilience(NANOprev, TANO, SPEI, NANO)
 
 \value{Resilience and Resistence to Temperature and Drought Index}
 \references{De Keersmaecker, W., Lhermitte, S., Tits, L. et al.(2015). A model quantifying global vegetation resistance and resilience to short-term climate anomalies and their relationship with vegetation cover. Global Ecology and Biogeography. 24. 539–548.}
-\author{Klaus Wolfgang Wiese Acosta}
+\author{Klaus W. Wiese Acosta}
 
 
 \examples{
