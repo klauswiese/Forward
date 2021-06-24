@@ -17,7 +17,7 @@ FirstDifference(r)
 
 \value{Calculate the first diffence from a raster time series}
 \references{}
-\author{Klaus Wolfgang Wiese Acosta}
+\author{Klaus W. Wiese Acosta}
 
 
 \examples{
