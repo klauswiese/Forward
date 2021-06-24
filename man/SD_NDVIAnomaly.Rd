@@ -17,7 +17,7 @@ SD_NDVIAnomaly(NDVI, YearLength)
 
 \value{The yearly standardised anomaly for NDVI time series}
 \references{}
-\author{Klaus Wolfgang Wiese Acosta}
+\author{Klaus W. Wiese Acosta}
 
 
 \examples{
