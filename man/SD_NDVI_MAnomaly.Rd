@@ -19,7 +19,7 @@ SD_NDVI_MAnomaly(NDVI, YearLength, ini, fin)
 
 \value{The yearly standardised monthly anomaly for NDVI time series}
 \references{}
-\author{Klaus Wolfgang Wiese Acosta}
+\author{Klaus W. Wiese Acosta}
 
 
 \examples{
