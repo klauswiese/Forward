@@ -17,7 +17,7 @@ monthlyMODIS(MODISyear, year)
 
 \value{A 12 layers raster stack of an 8 days composite MODIS product}
 \references{}
-\author{Klaus Wolfgang Wiese Acosta}
+\author{Klaus W. Wiese Acosta}
 
 
 \examples{
