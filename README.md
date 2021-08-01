@@ -7,3 +7,5 @@ remotes::install_github("klauswiese/Forward")
 
 
 ## NDVI time series
+
+## 2. Examples
